@@ -12,7 +12,7 @@ public class SpringbootAzureApplication {
 	
 	@GetMapping("/display")
 	public String displayMessage() {
-		return "Hello Santhosh : congrats project deployed to azure";
+		return "Hello Santhosh : congrats project deployed HH to azure";
 	}
 	
 	public static void main(String[] args) {
